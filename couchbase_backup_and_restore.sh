@@ -15,6 +15,3 @@
 
 # Enterprise edition
 /opt/couchbase/bin/cbbackupmgr config -a /root/backup -r leader_capital_cluster_backup
-
-
-
