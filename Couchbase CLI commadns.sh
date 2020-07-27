@@ -1,1 +1,0 @@
-/opt/couchbase/bin/couchbase-cli --help
